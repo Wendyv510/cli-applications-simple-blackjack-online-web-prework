@@ -46,7 +46,17 @@ end
 # get every test to pass before coding runner below #
 #####################################################
 
-def runner
-  # code runner here
+def runner_blackjack
+ 
+  Welcome
+  initial_round
+  display_card_total
+  prompt_user
+  get_user_input
+  end_game
+end 
+
+
+  
 end
     
